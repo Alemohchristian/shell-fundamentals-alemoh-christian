@@ -40,6 +40,30 @@
 
 ---
 
+### 📸 Screenshot 6: Exiting the todo list
+
+![Screenshot5](screenshot6.png)
+
+*choosing option 4 exits the todo list and prompts a goodbye message*
+
+---
+
+### 📸 Screenshot 7: todo.txt file created to save task
+
+![Screenshot5](screenshot7.png)
+
+*using ls you can see a todo.txt file has been created (TODO_FILE="todo.txt")
+ to show all our tasks we saved*
+
+---
+### 📸 Screenshot 8: viewing tasks
+
+![Screenshot5](screenshot5.png)
+
+*vi todo.txt shows us all the task we have added to our todo list*
+
+---
+
 ### ✅ How It Works
 
 - The menu is displayed in a while true loop to keep the program running.
